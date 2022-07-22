@@ -1,0 +1,16 @@
+C:\Users\asus\Documents\C#\tasks\UserManagemetn\UserManagemetn\obj\Debug\net5.0\UserManagemetn.csproj.AssemblyReference.cache
+C:\Users\asus\Documents\C#\tasks\UserManagemetn\UserManagemetn\obj\Debug\net5.0\UserManagemetn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Documents\C#\tasks\UserManagemetn\UserManagemetn\obj\Debug\net5.0\UserManagemetn.AssemblyInfoInputs.cache
+C:\Users\asus\Documents\C#\tasks\UserManagemetn\UserManagemetn\obj\Debug\net5.0\UserManagemetn.AssemblyInfo.cs
+C:\Users\asus\Documents\C#\tasks\UserManagemetn\UserManagemetn\obj\Debug\net5.0\UserManagemetn.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\C#\tasks\UserManagemetn\UserManagemetn\bin\Debug\net5.0\UserManagemetn.exe
+C:\Users\asus\Documents\C#\tasks\UserManagemetn\UserManagemetn\bin\Debug\net5.0\UserManagemetn.deps.json
+C:\Users\asus\Documents\C#\tasks\UserManagemetn\UserManagemetn\bin\Debug\net5.0\UserManagemetn.runtimeconfig.json
+C:\Users\asus\Documents\C#\tasks\UserManagemetn\UserManagemetn\bin\Debug\net5.0\UserManagemetn.runtimeconfig.dev.json
+C:\Users\asus\Documents\C#\tasks\UserManagemetn\UserManagemetn\bin\Debug\net5.0\UserManagemetn.dll
+C:\Users\asus\Documents\C#\tasks\UserManagemetn\UserManagemetn\bin\Debug\net5.0\ref\UserManagemetn.dll
+C:\Users\asus\Documents\C#\tasks\UserManagemetn\UserManagemetn\bin\Debug\net5.0\UserManagemetn.pdb
+C:\Users\asus\Documents\C#\tasks\UserManagemetn\UserManagemetn\obj\Debug\net5.0\UserManagemetn.dll
+C:\Users\asus\Documents\C#\tasks\UserManagemetn\UserManagemetn\obj\Debug\net5.0\ref\UserManagemetn.dll
+C:\Users\asus\Documents\C#\tasks\UserManagemetn\UserManagemetn\obj\Debug\net5.0\UserManagemetn.pdb
+C:\Users\asus\Documents\C#\tasks\UserManagemetn\UserManagemetn\obj\Debug\net5.0\UserManagemetn.genruntimeconfig.cache
